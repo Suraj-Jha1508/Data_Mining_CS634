@@ -1,0 +1,17 @@
+Use the following  car evaluation dataset (http://archive.ics.uci.edu/ml/datasets/Car+Evaluation) to answer the following questions.
+
+1. Find the set of cars that have the highest similarity with each other.(2)
+
+2. Find the set of cars that have the highest dissimilarity with each other. (2)
+
+3. Find the two categorical attributes that have the highest positive/negative correlation. Draw a scatter plot of these two attributes. Analyze the correlation using the following significance levels:
+
+0.01, 0.05, 0.001 (5)
+
+4. Present the dissimilarity matrix for the very good cars.  (3)
+
+Please submit.
+
+1. Your R-code ( as an R-script)
+
+3. Output and a documentation describing your solution. (as a single pdf)

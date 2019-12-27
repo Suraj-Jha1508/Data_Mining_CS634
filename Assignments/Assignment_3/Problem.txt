@@ -1,0 +1,23 @@
+The data set Preview the document contains plant lists from 246 nemoral forests in the Southern Finland. All 206 attributes are plant species. The data is confidental, and therefore the species corresponding to number codes and cannot be revealed.
+
+1. Find out the pattern of all plant species (i.e., ids) in the forests with support  threshold = 50%
+
+(3)
+
+2. Find out the max-frequent-plant species with the same support threshold.(2)
+
+3. With a confidence threshold of 70% (and support threshold 40%), find out all strong association rules.
+
+(3)
+
+ 
+
+Note: You may use the built in API for running Apriori
+
+What to submit:
+
+1. R- Source code
+
+2. A document describing pseudocode and other related steps.
+
+3. Outputs.
