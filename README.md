@@ -1,5 +1,5 @@
 # Data_Mining_CS634
-Data Mining Assignments and Project which i have done in my Masters at NJIT under Course CS634
+This Repository contain all Assignments and Projects, i completed during my Data Mining Course at NJIT
 
 # Assignment 1:
 
